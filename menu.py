@@ -1,14 +1,13 @@
 while True:
 
     #mostramos un menú
-    print("--> ( Menú Calculadora 📠) <--\n")
+    print("\n--> ( Menú Calculadora 📠) <--\n")
     print("=====================================")
     print("\n1. Sumar")
     print("\n2. Restar")
     print("\n3. Multiplicar")
     print("\n4. Dividir")
-    print("\n5. Salir\n")
-    print("\n--> Seleccione una opción: ")
+    print("\n5. Salir")
     print("=====================================")
 
     #leemos la opción del usuario
